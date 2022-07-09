@@ -8,3 +8,12 @@ Le modpack est disponible en 1.18.2 (qui nécessite Java version 17) et est uniq
 
 > Les instructions d’installation ont été effectué avec PolyMC sous Fedora Linux mais les instruction sont les mêmes peu importe l'OS.
 
+Alez dans ```Ajouter une instance``` --> ```Importer depuis un zip``` --> copier-coller ce lien dans le champ d'url --> ```OK```
+
+Normalement, le téléchargement devrait se lancer. Après le téléchagement, vous pouvez double-cliquer sur ```ISEN-Modded``` pour démarrer le modpack.
+
+> En cas de problèmes, vous pouvez me contacter sur Discord : ```cfouche#6347```
+
+Si vous voulez rajouter des mods ou faire remonter un problème, n'hésitez pas à ouvrir une issue
+
+Pour être au courant de toute les mis à jour du modpack, n'hésiter pas à cliquer sur le bouton ```Watch```
