@@ -18,4 +18,4 @@ Normalement, le téléchargement devrait se lancer. Après le téléchagement, v
 
 Si vous voulez rajouter des mods ou faire remonter un problème, n'hésitez pas à ouvrir une issue.
 
-Pour être au courant de toute les mis à jour du modpack, n'hésiter pas à cliquer sur le bouton ```Watch``` et à consulter les <a href="https://github.com/cfouche3005/ISEN-Modded/releases">release</a>.
+Pour être au courant de toute les mis à jour du modpack, n'hésiter pas à cliquer sur le bouton ```Watch``` et à consulter les <a href="https://github.com/cfouche3005/ISEN-Modded/releases">releases</a>.
