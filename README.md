@@ -7,3 +7,4 @@ Le modpack est disponible en 1.18.2 (qui nécessite Java version 17) et est uniq
 ### Instruction d'installation :
 
 > Les instructions d’installation ont été effectué avec PolyMC sous Fedora Linux mais les instruction sont les mêmes peu importe l'OS.
+
